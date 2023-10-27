@@ -1,0 +1,1073 @@
+html { 
+    background-color: #000000;
+}
+
+/* 0 block */
+
+.firstblock { 
+    color: rgb(255, 255, 255);
+    width: 100%;
+    margin: 0 auto;
+    
+
+} 
+
+.first_p { 
+    font-family: "IBMPlexMono-Regular";
+    font-size: 592px;
+    font-weight: normal;
+    margin-left: 200px;
+    margin-top: 100px; 
+    
+}
+
+.secondblock{
+    display: flex;
+    justify-content: space-around;
+    color: white;
+    margin-top: -50px;
+}
+
+.plex {
+
+font-family: "IBMPlexMono-Regular";
+font-size: 80px;
+font-weight: normal;
+margin-left: 20px;
+
+}
+
+.mono {
+
+    font-family: "IBMPlexMono-Regular";
+    font-size: 80px;
+    font-weight: normal;
+    margin-left: -70px;
+}
+
+
+.round_red {
+    padding-left: 358px;
+    margin-top: -548px;
+}
+
+.roundonered {
+    width: 77px;
+    height: 72px;
+} 
+
+.round_blur {
+    padding-left: 245px;
+    margin-top: -185px;
+}
+
+.roundoneblur {
+    width: 300px;
+    height: 300px;
+
+}
+
+/* 1 block */
+
+.blank {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 540px;
+    margin-left: -3px;
+    width: 1476px;
+    height: 869px; 
+}
+
+
+.greeting {
+    margin-top: 200px;
+    margin-left: 100px;
+    font-family: "IBMPlexMono-Light";
+    font-size: 25px;
+    font-style: light; 
+    line-height: normal;
+    position: absolute;
+    
+}
+
+b {font-family: "IBMPlexMono-Medium";}
+
+/* 2 block */
+
+.paper {
+    margin-left: -50px;
+    display: flex;
+    width: 1039px;
+    height: 681px;
+}
+
+.pen {
+    margin-left: -210px;
+    display: flex;
+    width: 174px;
+    height: 645px;
+
+}
+
+.bothone {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 200px;
+}
+
+.aboutfont {
+    margin-top: -130px;
+    margin-left: 100px;
+    font-family: "IBMPlexMono-Regular";
+    font-size: 80px;
+    font-style: normal;
+    line-height: normal;
+    position: absolute;
+    color: #FF624D;
+}
+
+.maintext {
+    margin-top: 162px;
+    margin-left: 490px;
+    font-family: "IBMPlexMono-LightItalic";
+    font-size: 25px;
+    font-style: italic;
+    line-height: normal;
+    position: absolute;
+    color: #000000;
+}
+
+.redsmall {
+    font-size: 23px;
+    font-family: "IBMPlexMono-Italic";
+    color: #FF624D;
+}
+
+/* 3 block */
+
+.computer {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 85px;
+    width: 1189px;
+    height: 885px; 
+    margin-left: 140px;
+}
+
+.computerone {
+    margin-top: 18px;
+    margin-left: 210px;
+    font-family: "IBMPlexMono-Medium";
+    font-size: 25px;
+    font-style: medium;
+    line-height: normal;
+    position: absolute;
+    color: #FFFFFF;
+}
+
+.computersecond {
+    margin-top: 118px;
+    margin-left: 190px;
+    font-family: "IBMPlexMono-Light";
+    font-size: 25px;
+    font-style: light;
+    line-height: normal;
+    position: absolute;
+    color: #FFFFFF;
+}
+
+.redletter {
+    font-family: "IBMPlexMono-Regular";
+    font-style: normal;
+    color: #FF624D;
+}
+
+.computerbox {
+    margin-top: 685px;
+    margin-left: 585px;
+    font-family: "IBMPlexMono-Medium";
+    font-size: 30px;
+    font-style: medium;
+    line-height: normal;
+    position: absolute;
+    color: #FFFFFF;
+}
+
+/* 4 block */
+
+.curves {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 40px;
+    width: 1327px;
+    height: 551px; 
+    margin-left: 85px;
+}
+
+.curvestext {
+    margin-top: -30px;
+    margin-left: 120px;
+    font-family: "IBMPlexMono-Light";
+    font-size: 28px;
+    font-style: light;
+    line-height: normal;
+    position: absolute;
+    color: #FFFFFF;
+}
+
+.curvesadd {
+    margin-top: 410px;
+    margin-left: 120px;
+    font-family: "IBMPlexMono-LightItalic";
+    font-size: 25px;
+    font-style: italic;
+    line-height: normal;
+    position: absolute;
+    color: #FF624D;
+    display: flex;
+    justify-content: flex-end;
+    text-align: center;
+}
+
+.curvesaddtwo {
+    margin-left: 85px;
+}
+
+.curvesaddthree {
+    margin-left: 85px;
+}
+
+
+/* 5 block */
+
+.sign {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 30px;
+    margin-left: 0px;
+    width: 1460px;
+    height: 348px; 
+}
+
+.screen {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 108px;
+    margin-left: 177px;
+    width: 1119px;
+    height: 751px; 
+}
+
+.signmain {
+    margin-top: 120px;
+    margin-left: 492px;
+    font-family: "IBMPlexMono-Regular";
+    font-size: 80px;
+    font-style: normal;
+    line-height: normal;
+    position: absolute;
+    color: #FF624D;
+
+}
+
+.signtext {
+    margin-top: 230px;
+    margin-left: 362px;
+    font-family: "IBMPlexMono-Light";
+    font-size: 25px;
+    font-style: light;
+    line-height: normal;
+    position: absolute;
+    color: #FFFFFF;
+
+}
+
+.screentop {
+    margin-top: 662px;
+    margin-left: 320px;
+    font-family: "IBMPlexMono-Light";
+    font-size: 25px;
+    font-style: light;
+    line-height: normal;
+    position: absolute;
+    color: #FFFFFF;
+}
+
+.screentextone {
+    margin-top: 735px;
+    margin-left: 300px;
+    display: flex;
+    justify-content: space-around;
+    font-size: 70px;
+    line-height: 70px;  
+    position: absolute;
+    color: #FF624D;
+}
+
+.secondrow { 
+    margin-top: 810px;
+    margin-left: 300px;
+    display: flex;
+    justify-content: space-around;
+    font-size: 70px;
+    line-height: 70px;  
+    position: absolute;
+    color: #FF624D;
+}
+
+.bo {
+    font-family: "IBMPlexMono-Bold";
+    font-style: bold;
+}
+
+.s {
+
+    font-family: "IBMPlexMono-SemiBold";
+    font-style: bold;
+
+}
+
+.m {
+    font-family: "IBMPlexMono-Medium";
+    font-style: medium;
+}
+
+.re {
+    font-family: "IBMPlexMono-Regular";
+    font-style: normal;
+}
+
+.l {
+    font-family: "IBMPlexMono-Light";
+    font-style: light;
+}
+
+.el {
+    font-family: "IBMPlexMono-ExtraLight";
+    font-style: light;
+}
+
+.th {
+    font-family: "IBMPlexMono-Thin";
+    font-style: thin;
+}
+
+.thi {
+    font-family: "IBMPlexMono-ThinItalic";
+    font-style: italic;
+}
+
+.eli {
+    font-family: "IBMPlexMono-ExtraLightItalic";
+    font-style: italic;
+}
+
+
+.li {
+    font-family: "IBMPlexMono-ExtraLightItalic";
+    font-style: italic;
+}
+
+.it {
+    font-family: "IBMPlexMono-Italic";
+    font-style: italic;
+}
+
+.mi {
+    font-family: "IBMPlexMono-MediumItalic";
+    font-style: italic;
+}
+
+.si {
+    font-family: "IBMPlexMono-SemiBoldItalic";
+    font-style: italic; 
+}
+
+.bi {
+    font-family: "IBMPlexMono-BoldItalic";
+    font-style: italic;
+}
+
+/* 6 block */
+
+.tablet {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 185px;
+    margin-left: 132px;
+    width: 1207px;
+    height: 731px; 
+}
+
+.tabletmain {
+    margin-top: -80px;
+    margin-left: 133px;
+    font-family: "IBMPlexMono-Light";
+    font-size: 29px;
+    font-style: light;
+    line-height: normal;
+    position: absolute;
+    color: #FFFFFF;
+}
+
+.lang {
+    margin-top: 22px;
+    margin-left: 160px;
+    font-family: "IBMPlexMono-Regular";
+    font-style: normal;
+    font-size: 30px;
+    line-height: normal;
+    position: absolute;
+    color: #FFFFFF;
+}
+
+.point {
+    margin-top: 22px;
+    margin-left: 590px;
+    font-family: "IBMPlexMono-Regular";
+    font-style: normal;
+    font-size: 30px;
+    line-height: normal;
+    position: absolute;
+    color: #FFFFFF;
+}
+
+.num {
+    margin-top: 22px;
+    margin-left: 963px;
+    font-family: "IBMPlexMono-Regular";
+    font-style: normal;
+    font-size: 30px;
+    line-height: normal;
+    position: absolute;
+    color: #FFFFFF;
+}
+
+.glif {
+    margin-top: 22px;
+    margin-left: 1185px;
+    font-family: "IBMPlexMono-Regular";
+    font-style: normal;
+    font-size: 30px;
+    line-height: normal;
+    position: absolute;
+    color: #FFFFFF;
+}
+
+.hello {
+    margin-top: 105px;
+    margin-left: 154px;
+    font-family: "IBMPlexMono-Light";
+    font-style: light;
+    font-size: 65px;
+    line-height: normal;
+    position: absolute;
+    color: #FF624D;
+    letter-spacing: 36px;
+}
+
+.salut {
+    margin-top: 230px;
+    margin-left: 154px;
+    font-family: "IBMPlexMono-Light";
+    font-style: light;
+    font-size: 65px;
+    line-height: normal;
+    position: absolute;
+    color: #FF624D;
+    letter-spacing: 36px;
+}
+
+.hallo {
+    margin-top: 360px;
+    margin-left: 154px;
+    font-family: "IBMPlexMono-Light";
+    font-style: light;
+    font-size: 65px;
+    line-height: normal;
+    position: absolute;
+    color: #FF624D;
+    letter-spacing: 36px;
+}
+
+.ciao {
+    margin-top: 488px;
+    margin-left: 154px;
+    font-family: "IBMPlexMono-Light";
+    font-style: light;
+    font-size: 65px;
+    line-height: normal;
+    position: absolute;
+    color: #FF624D;
+    letter-spacing: 36px;
+}
+
+.hej {
+    margin-top: 617px;
+    margin-left: 154px;
+    font-family: "IBMPlexMono-Light";
+    font-style: light;
+    font-size: 65px;
+    line-height: normal;
+    position: absolute;
+    color: #FF624D;
+    letter-spacing: 37px;
+}
+
+.fi {
+    margin-top: 103px;
+    margin-left: 604px;
+    font-family: "IBMPlexMono-Light";
+    font-style: light;
+    font-size: 65px;
+    line-height: normal;
+    position: absolute;
+    color: #FF624D;
+    letter-spacing: 36px;
+}
+
+.fitwo {
+    margin-top: 229px;
+    margin-left: 604px;
+    font-family: "IBMPlexMono-Light";
+    font-style: light;
+    font-size: 65px;
+    line-height: normal;
+    position: absolute;
+    color: #FF624D;
+    letter-spacing: 36px;
+}
+
+.fithree {
+    margin-top: 354px;
+    margin-left: 604px;
+    font-family: "IBMPlexMono-Light";
+    font-style: light;
+    font-size: 65px;
+    line-height: normal;
+    position: absolute;
+    color: #FF624D;
+    letter-spacing: 36px;
+}
+
+.fifour {
+    margin-top: 487px;
+    margin-left: 604px;
+    font-family: "IBMPlexMono-Light";
+    font-style: light;
+    font-size: 65px;
+    line-height: normal;
+    position: absolute;
+    color: #FF624D;
+    letter-spacing: 36px;
+}
+
+.fifive {
+    margin-top: 612px;
+    margin-left: 604px;
+    font-family: "IBMPlexMono-Light";
+    font-style: light;
+    font-size: 65px;
+    line-height: normal;
+    position: absolute;
+    color: #FF624D;
+    letter-spacing: 36px;
+}
+
+.nu {
+    margin-top: 120px;
+    margin-left: 976px;
+    font-family: "IBMPlexMono-Regular";
+    font-style: normal;
+    font-size: 40px;
+    line-height: normal;
+    position: absolute;
+    color: #FF624D;
+    letter-spacing: 0px;
+}
+.nutwo {
+    margin-top: 246px;
+    margin-left: 976px;
+    font-family: "IBMPlexMono-Regular";
+    font-style: normal;
+    font-size: 40px;
+    line-height: normal;
+    position: absolute;
+    color: #FF624D;
+    letter-spacing: 0px;
+}
+
+.nuthree {
+    margin-top: 375px;
+    margin-left: 976px;
+    font-family: "IBMPlexMono-Regular";
+    font-style: normal;
+    font-size: 40px;
+    line-height: normal;
+    position: absolute;
+    color: #FF624D;
+    letter-spacing: 0px;
+}
+
+.nufour {
+    margin-top: 506px;
+    margin-left: 976px;
+    font-family: "IBMPlexMono-Regular";
+    font-style: normal;
+    font-size: 40px;
+    line-height: normal;
+    position: absolute;
+    color: #FF624D;
+    letter-spacing: 0px;
+}
+
+.nufive {
+    margin-top: 635px;
+    margin-left: 976px;
+    font-family: "IBMPlexMono-Regular";
+    font-style: normal;
+    font-size: 40px;
+    line-height: normal;
+    position: absolute;
+    color: #FF624D;
+    letter-spacing: 0px;
+}
+
+.gl {
+    margin-top: 102px;
+    margin-left: 1202px;
+    font-family: "IBMPlexMono-Light";
+    font-style: light;
+    font-size: 65px;
+    line-height: normal;
+    position: absolute;
+    color: #FF624D;
+    letter-spacing: 37px;
+}
+
+.gltwo {
+    margin-top: 232px;
+    margin-left: 1202px;
+    font-family: "IBMPlexMono-Light";
+    font-style: light;
+    font-size: 65px;
+    line-height: normal;
+    position: absolute;
+    color: #FF624D;
+    letter-spacing: 37px;
+}
+
+.glthree {
+    margin-top: 360px;
+    margin-left: 1202px;
+    font-family: "IBMPlexMono-Light";
+    font-style: light;
+    font-size: 65px;
+    line-height: normal;
+    position: absolute;
+    color: #FF624D;
+    letter-spacing: 37px;
+}
+
+.glfour {
+    margin-top: 495px;
+    margin-left: 1202px;
+    font-family: "IBMPlexMono-Light";
+    font-style: light;
+    font-size: 65px;
+    line-height: normal;
+    position: absolute;
+    color: #FF624D;
+    letter-spacing: 37px;
+}
+
+.glfive {
+    margin-top: 620px;
+    margin-left: 1202px;
+    font-family: "IBMPlexMono-Light";
+    font-style: light;
+    font-size: 65px;
+    line-height: normal;
+    position: absolute;
+    color: #FF624D;
+    letter-spacing: 37px;
+}
+
+.stuffmain {
+    margin-top: 53px;
+    margin-left: 128px;
+    font-family: "IBMPlexMono-Regular";
+    font-size: 80px;
+    font-style: normal;
+    line-height: normal;
+    position: absolute;
+    color: #FF624D;
+}
+
+.stuffadd {
+    margin-top: 178px;
+    margin-left: 132px;
+    font-family: "IBMPlexMono-Light";
+    font-size: 25px;
+    font-style: light;
+    line-height: normal;
+    position: absolute;
+    color: #FFFFFF;
+
+}
+
+/* 8 block */
+
+.allpics {
+    display: flex;
+    justify-content: space-around;
+}
+
+.firstel {
+   display: flex;
+   margin-left: 270px;
+   margin-top: 330px;
+   width: 166px;
+   height: 1231px; 
+}
+
+.secondel{
+    margin-top: -1170px;
+    margin-left: 680px;
+    display: flex;
+    width: 533px;
+    height: 313px;
+} 
+
+.thirdel {
+margin-top: 170px;
+margin-left: 680px;
+display: flex;
+width: 515px;
+height: 323px;
+}
+
+.fourthel {
+    margin-top: 160px;
+    margin-left: 600px;
+    display: flex;
+    width: 689px;
+    height: 239px;
+    }
+
+.fithel {
+ margin-top: 135px;
+ margin-left: 130px;
+ display: flex;
+ width: 1235px;
+ height: 269px;
+}
+
+.sixthel {
+    margin-top: 105px;
+    margin-left: 250px;
+    display: flex;
+    width: 939px;
+    height: 333px;
+    }
+
+.seventhel {
+    margin-top: 170px;
+    margin-left: 200px;
+    display: flex;
+    width: 424px;
+    height: 467px;
+
+}
+
+.eighthel{
+    margin-top: -525px;
+    margin-left: 685px;
+    display: flex;
+    width: 129px;
+    height: 598px;
+}
+
+.ninthel{
+    margin-top: -520px;
+    margin-left: 850px;
+    display: flex;
+    width: 412px;
+    height: 444px;
+}
+
+.tenthel {
+    margin-top: 200px;
+    margin-left: 25px;
+    display: flex;
+    width: 946px;
+    height: 456px;
+}
+
+.eleventhel{
+    margin-top: -130px;
+    margin-left: 925px;
+    display: flex;
+    width: 435px;
+    height: 435px;
+}
+
+.twelveel {
+    margin-top: -150px;
+    margin-left: 75px;
+    display: flex;
+    width: 1280px;
+    height: 1196px;
+}
+       
+.danger {
+    margin-top: 203px;
+    margin-left: 715px;
+    font-family: "IBMPlexMono-Italic";
+    font-size: 25px;
+    font-style: italic;
+    line-height: normal;
+    position: absolute;
+    color: #FF624D;
+}
+
+.super {
+    margin-top: 646px;
+    margin-left: 906px;
+    font-family: "IBMPlexMono-Regular";
+    font-size: 30px;
+    font-style: normal;
+    line-height: normal;
+    position: absolute;
+    color: #FF624D;
+}
+
+.visit {
+
+    margin-top: 1855px;
+    margin-left: 413px;
+    font-family: "IBMPlexMono-Regular";
+    font-size: 90px;
+    font-style: normal;
+    line-height: normal;
+    position: absolute;
+    color: #000000;
+
+}
+
+.visittwo {
+
+    margin-top: 2045px;
+    margin-left: 800px;
+    font-family: "IBMPlexMono-Italic";
+    font-size: 35px;
+    font-style: italic;
+    line-height: normal;
+    position: absolute;
+    color: #ffffff;
+}
+
+.agenti {
+    margin-top: 2296px;
+    margin-left: 376px;
+    font-family: "IBMPlexMono-Italic";
+    font-size: 15px;
+    font-style: italic;
+    line-height: normal;
+    position: absolute;
+    color: #000000;
+}
+
+.agentb {
+    margin-top: 2752px;
+    margin-left: 740px;
+    font-family: "IBMPlexMono-Regular";
+    font-size: 30px;
+    font-style: normal;
+    line-height: normal;
+    position: absolute;
+    color: #ffffff;
+}
+
+.love {
+    margin-top: 2422px;
+    margin-left: 993px;
+    font-family: "IBMPlexMono-Light";
+    font-size: 110px;
+    font-style: light;
+    line-height: 125px;
+    position: absolute;
+    color: #ffffff;
+
+}
+
+.lastnoteone {
+    margin-top: 1255px;
+    margin-left: 265px;
+    font-family: "IBMPlexMono-Italic";
+    font-size: 25px;
+    font-style: italic;
+    line-height: normal;
+    position: absolute;
+    color: #ffffff;
+}
+
+.lastnotetwo {
+    margin-top: 400px;
+    margin-left: 840px;
+    font-family: "IBMPlexMono-Italic";
+    font-size: 25px;
+    font-style: italic;
+    line-height: normal;
+    position: absolute;
+    color: #ffffff;
+}
+
+.lastnotethree {
+    margin-top: 800px;
+    margin-left: 720px;
+    font-family: "IBMPlexMono-Italic";
+    font-size: 25px;
+    font-style: italic;
+    line-height: normal;
+    position: absolute;
+    color: #ffffff;
+}
+
+.lastnotefour {
+    margin-top: 1245px;
+    margin-left: 1098px;
+    font-family: "IBMPlexMono-Italic";
+    font-size: 25px;
+    font-style: italic;
+    line-height: normal;
+    position: absolute;
+    color: #ffffff;
+}
+
+.lastnotefive {
+    margin-top: 1635px;
+    margin-left: 700px;
+    font-family: "IBMPlexMono-Italic";
+    font-size: 25px;
+    font-style: italic;
+    line-height: normal;
+    position: absolute;
+    color: #ffffff;
+}
+
+.lastnotesix {
+    margin-top: 2085px;
+    margin-left: 250px;
+    font-family: "IBMPlexMono-Italic";
+    font-size: 25px;
+    font-style: italic;
+    line-height: normal;
+    position: absolute;
+    color: #ffffff;
+}
+
+.lastnoteseven {
+    margin-top: 2765px;
+    margin-left: 315px;
+    font-family: "IBMPlexMono-Italic";
+    font-size: 25px;
+    font-style: italic;
+    line-height: normal;
+    position: absolute;
+    color: #ffffff;
+}
+
+.lastnoteeight {
+    margin-top: 2835px;
+    margin-left: 698px;
+    font-family: "IBMPlexMono-Italic";
+    font-size: 25px;
+    font-style: italic;
+    line-height: normal;
+    position: absolute;
+    color: #ffffff;
+}
+
+.lastnotenine {
+    margin-top: 2765px;
+    margin-left: 979px;
+    font-family: "IBMPlexMono-Italic";
+    font-size: 25px;
+    font-style: italic;
+    line-height: normal;
+    position: absolute;
+    color: #ffffff;
+}
+
+.lastnoteten {
+    margin-top: 3385px;
+    margin-left: 160px;
+    font-family: "IBMPlexMono-Italic";
+    font-size: 25px;
+    font-style: italic;
+    line-height: normal;
+    position: absolute;
+    color: #ffffff;
+}
+
+.lastnoteeleven {
+    margin-top: 3605px;
+    margin-left: 1085px;
+    font-family: "IBMPlexMono-Italic";
+    font-size: 25px;
+    font-style: italic;
+    line-height: normal;
+    position: absolute;
+    color: #ffffff;
+}
+
+.lastnotetwelve {
+    margin-top: 4490px;
+    margin-left: 475px;
+    font-family: "IBMPlexMono-Light";
+    font-size: 30px;
+    font-style: light;
+    line-height: normal;
+    position: absolute;
+    color: #ffffff;
+    text-align: right;
+}
+
+.titles {
+    font-family: "IBMPlexMono-SemiBold";
+    font-style: bold;
+}
+
+.redtitles {
+    font-family: "IBMPlexMono-SemiBold";
+    font-style: bold;
+    color: #FF624D;
+}
+
+
+.thelastone {
+    margin-top: 4840px;
+    margin-left: 95px;
+    font-family: "IBMPlexMono-Light";
+    font-size: 30px;
+    font-style: light;
+    line-height: normal;
+    position: absolute;
+    color: #ffffff;
+    text-align: right;
+}
+
+.thelasttwo {
+    margin-top: 4840px;
+    margin-left: 880px;
+    font-family: "IBMPlexMono-Light";
+    font-size: 30px;
+    font-style: light;
+    line-height: normal;
+    position: absolute;
+    color: #ffffff;
+    text-align: right;
+}
+
+
